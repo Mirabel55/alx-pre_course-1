@@ -1,1 +1,1 @@
- this directory contains everythin about git project 
+ tis directory contains everything about this project 
